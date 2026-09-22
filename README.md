@@ -51,7 +51,7 @@ Le modèle relationnel repose sur trois entités principales :
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com](https://github.com/saranefzi18-crypto/portail-intranet-transtu.git)
+git clone https://github.com/saranefzi18-crypto/portail-intranet-transtu.git
 ```
 
 ### 2. Configuration du Backend
