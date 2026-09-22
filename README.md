@@ -63,7 +63,7 @@ npm install
 * **Environnement :** Configurez vos accès (Host, User, Password, JWT_SECRET) dans le fichier `.env`.
 * **Lancement :**
 ```bash
-npm start
+node .
 ```
 
 ### 3. Configuration du Frontend (Angular)
@@ -73,7 +73,7 @@ npm install
 ```
 * **Lancement :**
 ```bash
-ng serve
+npm start
 ```
 * **Accès local :** Ouvrez votre navigateur sur [http://localhost:4200](http://localhost:4200)
 
