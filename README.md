@@ -91,7 +91,7 @@ npm start
   <summary>Cliquez ici pour voir les interfaces de l'application</summary>
   
   ### Espace Utilisateur - Page d'Acceuil
-  ![Home](./screenshots/PageAcceuil.png)
+  ![Home](screenshots/PageAcceuil.png).
   
   ### Espace Utilisateur - Catalogue des Documents
   ![Catalogue User](./screenshots/Catalogue.png).
