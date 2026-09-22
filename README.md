@@ -85,5 +85,27 @@ npm start
 
 ---
 
+## 📸 Captures d'écran
+
+<details>
+  <summary>🔍 إضغط هنا لمشاهدة واجهات التطبيق</summary>
+  
+  ### Espace Utilisateur - Page d'Acceuil
+  ![Home](./screenshots/PageAcceuil.png)
+  
+  ### Espace Utilisateur - Catalogue des Documents
+  ![Catalogue User](./screenshots/Catalogue.png).
+
+  ### Espace Administrateur - Page login
+  ![Catalogue User](./screenshots/EspaceAdmin.png).
+
+  ### Espace Administrateur - Gestion des Applications
+  ![Catalogue User](./screenshots/ListeDesApplications.png).
+
+  ### Espace Administrateur - Gestion des Documents
+  ![Catalogue User](./screenshots/GestionDesDocuments.png).
+
+---
+  
 ## 🎓 Context académique
 Ce projet a été réalisé de manière autonome dans le cadre de mon **Stage de Perfectionnement** au sein de la **TRANSTU**.
