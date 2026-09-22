@@ -88,7 +88,7 @@ npm start
 ## 📸 Captures d'écran
 
 <details>
-  <summary>🔍 إضغط هنا لمشاهدة واجهات التطبيق</summary>
+  <summary>Cliquez ici pour voir les interfaces de l'application</summary>
   
   ### Espace Utilisateur - Page d'Acceuil
   ![Home](./screenshots/PageAcceuil.png)
