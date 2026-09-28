@@ -91,19 +91,19 @@ npm start
   <summary>Cliquez ici pour voir les interfaces de l'application</summary>
   
   ### Espace Utilisateur - Page d'Acceuil
-  ![Home](screenshots/PageAcceuil.png).
+  ![Home](./Screenshots/PageAcceuil.png).
   
   ### Espace Utilisateur - Catalogue des Documents
-  ![Catalogue User](./screenshots/Catalogue.png).
+  ![Catalogue User](./Screenshots/Catalogue.png).
 
   ### Espace Administrateur - Page login
-  ![Catalogue User](./screenshots/EspaceAdmin.png).
+  ![Catalogue User](./Screenshots/EspaceAdmin.png).
 
   ### Espace Administrateur - Gestion des Applications
-  ![Catalogue User](./screenshots/ListeDesApplications.png).
+  ![Catalogue User](./Screenshots/ListeDesApplications.png).
 
   ### Espace Administrateur - Gestion des Documents
-  ![Catalogue User](./screenshots/GestionDesDocuments.png).
+  ![Catalogue User](./Screenshots/GestionDesDocuments.png).
 
 ---
   
